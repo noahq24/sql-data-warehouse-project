@@ -1,9 +1,21 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" version="26.1.3">
   <diagram name="Page-1" id="zY6rrEhBAitoZn2tYl90">
-    <mxGraphModel>
+    <mxGraphModel dx="2256" dy="681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="OMhUUVO9gvS6LcuZVxhh-1" value="Integration model" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=5;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-20" y="38" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OMhUUVO9gvS6LcuZVxhh-4" value="(how table are related)&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="125" y="38" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OMhUUVO9gvS6LcuZVxhh-5" value="&lt;span&gt;crm_cust_info&lt;/span&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;labelBorderColor=default;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;fontSize=26;" vertex="1" parent="1">
+          <mxGeometry x="60" y="150" width="250" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OMhUUVO9gvS6LcuZVxhh-9" value="cst_id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="OMhUUVO9gvS6LcuZVxhh-5">
+          <mxGeometry y="30" width="250" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
