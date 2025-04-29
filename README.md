@@ -109,4 +109,4 @@ Hi there! I'm **Noah Quezada**—an environmentalist turned data analyst, passio
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
-[![LinkedIn](https://www.linkedin.com/in/noahq/)
+[![LinkedIn](https://www.linkedin.com/in/noahq/)]
